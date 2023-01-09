@@ -1,0 +1,7 @@
+Comment
+WTF
+total 16
+drwxr-xr-x   4 vafliik  staff   128 Jan  9 15:24 .
+drwxr-x---+ 63 vafliik  staff  2016 Jan  9 15:26 ..
+-rw-r--r--@  1 vafliik  staff     5 Jan  9 15:22 ahoj.txt
+-rw-r--r--@  1 vafliik  staff    12 Jan  9 15:26 directory.txt
